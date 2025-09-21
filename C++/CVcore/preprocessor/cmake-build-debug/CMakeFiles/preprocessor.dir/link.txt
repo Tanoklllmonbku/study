@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\preprocessor.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\preprocessor.dir/objects.a @CMakeFiles\preprocessor.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\preprocessor.dir/objects.a -Wl,--no-whole-archive -o preprocessor.exe -Wl,--out-implib,libpreprocessor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\preprocessor.dir\linkLibs.rsp

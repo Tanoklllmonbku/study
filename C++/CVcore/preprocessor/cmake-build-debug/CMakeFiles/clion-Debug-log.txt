@@ -1,0 +1,10 @@
+C:\msys64\mingw64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/msys64/mingw64/bin/mingw32-make.exe -DCMAKE_CXX_COMPILER=C:/msys64/mingw64/bin/g++.exe -G "MinGW Makefiles" -S D:\projects\study\C++\CVcore\preprocessor -B D:\projects\study\C++\CVcore\preprocessor\cmake-build-debug
+-- Found Python: C:/Users/TanokDeDa/AppData/Local/Programs/Python/Python313/python.exe (found suitable version "3.13.7", minimum required is "3.7") found components: Interpreter Development.Module Development.Embed
+-- pybind11::lto disabled (problems with undefined symbols for MinGW for now)
+-- pybind11::thin_lto disabled (problems with undefined symbols for MinGW for now)
+-- Found pybind11: C:/msys64/mingw64/include (found version "2.13.6")
+-- Using Python from: C:/msys64/mingw64/include/python3.12
+-- OpenCV libraries: opencv_core
+-- Configuring done (0.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/projects/study/C++/CVcore/preprocessor/cmake-build-debug
