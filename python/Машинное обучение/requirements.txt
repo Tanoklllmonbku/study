@@ -1,8 +1,0 @@
-requests
-bs4
-pandas
-scikit-learn
-matplotlib
-scipy
-lxml
-html5lib
